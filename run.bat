@@ -1,0 +1,1 @@
+tsx src/query.ts
